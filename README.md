@@ -1,3 +1,5 @@
+[![Build Status](https://wpshnet.visualstudio.com/MyPython2/_apis/build/status%2Fscotthsu.pipelines-javascript-docker?branchName=main)](https://wpshnet.visualstudio.com/MyPython2/_build/latest?definitionId=4&branchName=main)
+
 # Sample Docker and Kubernetes Node.JS app
 
 This code sample uses the Node.js web framework Express to create a basic web server that listens for HTTP requests on port 8080.
